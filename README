@@ -1,0 +1,8 @@
+The fedgov-cv-datasink-subscription project contains code for a DigitalEdge plug-in controlling the processing of subscriptions to the
+Dist/ORDS system.
+
+For more information about DigitalEdge please visit:
+https://github.com/deleidos/digitaledge-platform
+
+For DigitalEdge documentation please visit: 
+https://github.com/deleidos/digitaledge-platform/tree/2.1.1/webconsole-help/src/main/documentation
